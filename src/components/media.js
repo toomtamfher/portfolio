@@ -1,0 +1,1 @@
+import Reacr, {Component} from 'react'import {}
